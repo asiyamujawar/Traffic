@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+runs/
+*.pt
+*.mp4
+*.avi
+*.jpg
+*.png
+!data/sample_images/.gitkeep
+.DS_Store
